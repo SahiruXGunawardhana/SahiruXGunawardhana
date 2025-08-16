@@ -1,18 +1,26 @@
 <h1 align="center">Hi 👋, I'm Sahiru Nileesha</h1>
 <h3 align="center">A passionate IT Student</h3>
 
+<!-- GitHub Stats -->
 <p align="center">
   <a href="https://github.com/SahiruXGunawardhana">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SahiruXGunawardhana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SahiruXGunawardhana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/SahiruXGunawardhana">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SahiruXGunawardhana&layout=compact&langs_count=8&theme=algolia"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahiruXGunawardhana&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
 
+<!-- Streak Stats -->
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SahiruXGunawardhana&theme=dark&hide_border=true"/>
 </p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SahiruXGunawardhana&theme=darkhub&no-frame=true&margin-w=15" />
+</p>
+
 
 - 🌱 I’m currently learning **MERN**
 
