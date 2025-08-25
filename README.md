@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sahiru Nileesha</h1>
+<h1 align="center">Hi 👋, I'm GUNAWARDHANA M.S.N</h1>
 <h3 align="center">A passionate IT Student</h3>
 
 <!-- GitHub Stats -->
