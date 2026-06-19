@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm GUNAWARDHANA M.S.N</h1>
-<h3 align="center">A passionate IT Student</h3>
+<h3 align="center">A passionate Data Science Student</h3>
 
 <!-- GitHub Stats -->
 <p align="center">
